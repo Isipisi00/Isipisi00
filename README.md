@@ -1,6 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-### Hi there 👋
+
+### Hello, I'm Isaac Gonzalez Aparicio and I'm web but also multiplatform developer👋
 
 - 📫 How to reach me: by mail gonzalezaparicio.2000@gmail.com or linkedin linkedin.com/in/isaac-gonzalez-34296b200
 - 🌱 I’m currently learning Web App Development (DAW) -> Creating web apps both in front and backend with frameworks like Laravel + Vue with php or nodejs + Angular with JS
