@@ -1,6 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif)
 
-### Hello, I'm Isaac Gonzalez Aparicio and I'm web but also multiplatform developer👋
+### Hello, I'm Isaac Gonzalez Aparicio and I'm web and multiplatform developer👋
+*Studies: * ***DAM and currently studying DAW***
 
 - 📫 How to reach me: by mail gonzalezaparicio.2000@gmail.com or linkedin linkedin.com/in/isaac-gonzalez-34296b200
 - 🌱 I’m currently learning Web App Development (DAW) -> Creating web apps both in front and backend with frameworks like Laravel + Vue with php or nodejs + Angular with JS
