@@ -1,4 +1,7 @@
-![Alt Text](https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="animated" />
+</p>
 
 ### Hello, I'm Isaac Gonzalez Aparicio and I'm web and multiplatform developer👋
 *Studies: 
